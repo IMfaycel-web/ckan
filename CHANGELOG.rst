@@ -1,7 +1,3 @@
-.. This tocdepth stops Sphinx from putting every subsection title in this file
-
-:tocdepth: 1
-
 ---------
 Changelog
 ---------
