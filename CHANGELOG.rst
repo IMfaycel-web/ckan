@@ -1,9 +1,3 @@
----------
-Changelog
----------
-
-.. towncrier release notes start
-
 v.2.12.0 (Not yet released)
 ===========================
 
