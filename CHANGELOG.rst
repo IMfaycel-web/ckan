@@ -1,9 +1,3 @@
-v.2.12.0 (Not yet released)
-===========================
-
-Migration notes
----------------
-
 * Going forward, if both ``ckan.upload.[type].mimetypes`` and
   ``ckan.upload.[type].types`` are empty, no uploads will be allowed
   for this object type (e.g. ``user`` or ``group``). It previously
