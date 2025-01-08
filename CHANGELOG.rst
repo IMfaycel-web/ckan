@@ -1,9 +1,3 @@
-* Going forward, if both ``ckan.upload.[type].mimetypes`` and
-  ``ckan.upload.[type].types`` are empty, no uploads will be allowed
-  for this object type (e.g. ``user`` or ``group``). It previously
-  meant that all file types were allowed. To keep the old behaviour use
-  the string ``*`` as value in both options (this is dangerous and
-  **not** recommended).
 
 Minor changes
 -------------
