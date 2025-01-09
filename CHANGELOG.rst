@@ -1,7 +1,3 @@
-
-Minor changes
--------------
-
 - Remove helper ``get_site_statistics()`` (#8705)
 
 
