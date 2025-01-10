@@ -1,4 +1,3 @@
-- Remove helper ``get_site_statistics()`` (#8705)
 
 
 v.2.11.5 2026-04-29
