@@ -1,6 +1,3 @@
-Migration notes
----------------
-
 - This version requires a requirements upgrade on source installations
 - Added support for Python 3.13 and 3.14. Dropped support for Python 3.9.
 
