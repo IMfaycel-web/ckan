@@ -1,7 +1,4 @@
--------------
-
-- Replace usage of pkg_resources.iter_entry_points, update exception message
-  (`#8992 <https://github.com/ckan/ckan/pull/8992>`_)
+(`#8992 <https://github.com/ckan/ckan/pull/8992>`_)
 - non-zero exit codes when search-index CLI fails (`#9011
   <https://github.com/ckan/ckan/pull/9011>`_)
 - Pass about_formatted to snippet to display this value in the sidebar. (`#9148
