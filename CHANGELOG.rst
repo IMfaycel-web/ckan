@@ -1,6 +1,4 @@
-<https://github.com/ckan/ckan/pull/9011>`_)
-- Pass about_formatted to snippet to display this value in the sidebar. (`#9148
-  <https://github.com/ckan/ckan/pull/9148>`_)
+<https://github.com/ckan/ckan/pull/9148>`_)
 - Add missing import. (`#9161 <https://github.com/ckan/ckan/pull/9161>`_)
 - Added string translation for `Searching...` in the Select2 JS autocomplete
   module. (`#9184 <https://github.com/ckan/ckan/pull/9184>`_)
