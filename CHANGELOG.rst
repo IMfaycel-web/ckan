@@ -1,6 +1,4 @@
-<https://github.com/ckan/ckan/pull/9148>`_)
-- Add missing import. (`#9161 <https://github.com/ckan/ckan/pull/9161>`_)
-- Added string translation for `Searching...` in the Select2 JS autocomplete
+Added string translation for `Searching...` in the Select2 JS autocomplete
   module. (`#9184 <https://github.com/ckan/ckan/pull/9184>`_)
 - Do not respond with a 500 error to external requests (`#9201
   <https://github.com/ckan/ckan/pull/9201>`_)
