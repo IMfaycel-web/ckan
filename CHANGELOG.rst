@@ -1,10 +1,3 @@
-  - ``follow_group``
-  - ``follow_dataset``
-  - ``follow_user``
-  - ``unfollow_group``
-  - ``unfollow_dataset``
-  - ``unfollow_user`` (`#9229 <https://github.com/ckan/ckan/pull/9229>`_)
-
 
 Bugfixes
 --------
