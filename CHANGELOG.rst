@@ -1,11 +1,3 @@
-
-Bugfixes
---------
-
-- `CVE-2026-41132 <https://github.com/ckan/ckan/security/advisories/GHSA-mpfm-fpgx-647q>`_: No certificate validation on SMTP connection
-- `CVE-2026-41255 <https://github.com/ckan/ckan/security/advisories/GHSA-mcvf-jxcw-vj73>`_: CSRF exemption primed by anonymous requests- `CVE-2026-42032 <https://github.com/ckan/ckan/security/advisories/GHSA-cg4x-64p3-x59h>`_: Unauthenticated Authorization Bypass in ``datastore_search_sql``
-- Fix Preview for resource view create/update pages (`#9128
-  <https://github.com/ckan/ckan/pull/9128>`_)
 - fix for issue with datastore dump startup time affecting large tables (`#9144
   <https://github.com/ckan/ckan/pull/9144>`_)
 - fix for markdown_extract tag removal bug introduced in 112afff (`#9162
