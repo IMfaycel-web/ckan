@@ -1,11 +1,7 @@
 - fix for issue with datastore dump startup time affecting large tables (`#9144
   <https://github.com/ckan/ckan/pull/9144>`_)
 - fix for markdown_extract tag removal bug introduced in 112afff (`#9162
-  <https://github.com/ckan/ckan/pull/9162>`_)
-- Fix SMTP TLS error with embedded port (`#9186
-  <https://github.com/ckan/ckan/pull/9186>`_)
-- Restores body_extras block on base.html, it was removed by accident. (`#9295
-  <https://github.com/ckan/ckan/pull/9295>`_)
+
 - Fixed duplicated root_path in webassets when assets directory is public
   directory
   and debug mode is used or cssrewrite is present in filters. (`#9300
