@@ -2,11 +2,6 @@
   <https://github.com/ckan/ckan/pull/9144>`_)
 - fix for markdown_extract tag removal bug introduced in 112afff (`#9162
 
-- Fixed duplicated root_path in webassets when assets directory is public
-  directory
-  and debug mode is used or cssrewrite is present in filters. (`#9300
-  <https://github.com/ckan/ckan/pull/9300>`_)
-
 v.2.11.4 2025-10-29
 ===================
 
