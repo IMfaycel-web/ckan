@@ -1,6 +1,5 @@
 - fix for issue with datastore dump startup time affecting large tables (`#9144
   <https://github.com/ckan/ckan/pull/9144>`_)
-- fix for markdown_extract tag removal bug introduced in 112afff (`#9162
 
 v.2.11.4 2025-10-29
 ===================
