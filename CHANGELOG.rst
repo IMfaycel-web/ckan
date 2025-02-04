@@ -1,8 +1,4 @@
 - fix for issue with datastore dump startup time affecting large tables (`#9144
-  <https://github.com/ckan/ckan/pull/9144>`_)
-
-v.2.11.4 2025-10-29
-===================
 
 Migration notes
 ---------------
