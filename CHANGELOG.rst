@@ -1,8 +1,3 @@
-- fix for issue with datastore dump startup time affecting large tables (`#9144
-
-Migration notes
----------------
-
 - This version requires a requirements upgrade on source installations
 - Restore handling of plugin order for ``ITemplateHelpers`` to align with
   ``add_template_directory`` precedence again (first plugin wins). You might
