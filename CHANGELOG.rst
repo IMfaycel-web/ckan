@@ -1,7 +1,4 @@
 - This version requires a requirements upgrade on source installations
-- Restore handling of plugin order for ``ITemplateHelpers`` to align with
-  ``add_template_directory`` precedence again (first plugin wins). You might
-  have to change the order of a plugin in ``ckan.plugins`` if you relied on
   overriding a template helper from another plugin. (`#9069
   <https://github.com/ckan/ckan/pull/9069>`_)
 - A new config option :ref:`ckan.uploads_enabled` was added to prevent a critical error being shown
