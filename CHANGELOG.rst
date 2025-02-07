@@ -1,5 +1,3 @@
-- This version requires a requirements upgrade on source installations
-  overriding a template helper from another plugin. (`#9069
   <https://github.com/ckan/ckan/pull/9069>`_)
 - A new config option :ref:`ckan.uploads_enabled` was added to prevent a critical error being shown
   in the logs about a missing :ref:`ckan.storage_path` setting. This is not required and existing
