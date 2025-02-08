@@ -1,9 +1,6 @@
   <https://github.com/ckan/ckan/pull/9069>`_)
 - A new config option :ref:`ckan.uploads_enabled` was added to prevent a critical error being shown
-  in the logs about a missing :ref:`ckan.storage_path` setting. This is not required and existing
-  sites should work as before. When the ``ckan.uploads_enabled`` is not set, uploads will be shown
-  in the UI if ``ckan.storage_path`` is defined or there is an ``IUploader`` plugin configured.
-  (`#8977 <https://github.com/ckan/ckan/pull/8977>`_)
+  in the logs abou
 
 Minor changes
 -------------
