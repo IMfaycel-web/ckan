@@ -1,8 +1,4 @@
-  <https://github.com/ckan/ckan/pull/9069>`_)
-- A new config option :ref:`ckan.uploads_enabled` was added to prevent a critical error being shown
-  in the logs abou
 
-Minor changes
 -------------
 
 - Replaced lint tool flake8 with ruff. (`#8964
