@@ -1,10 +1,3 @@
-
--------------
-
-- Replaced lint tool flake8 with ruff. (`#8964
-  <https://github.com/ckan/ckan/pull/8964>`_)
-- Remove unused `ckan.static_max_age` config option (`#9005
-  <https://github.com/ckan/ckan/pull/9005>`_)
 - Include CHANGELOG.rst in MANIFEST.in. (`#9083
   <https://github.com/ckan/ckan/pull/9083>`_)
 
