@@ -1,8 +1,5 @@
 - Include CHANGELOG.rst in MANIFEST.in. (`#9083
-  <https://github.com/ckan/ckan/pull/9083>`_)
 
-Bugfixes
---------
 
 - `CVE-2025-64100 <https://github.com/ckan/ckan/security/advisories/GHSA-2hvh-cw5c-8q8q>`_: Rotate
   session identifiers to prevent Session Cookie Fixation .
