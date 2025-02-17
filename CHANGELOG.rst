@@ -1,8 +1,4 @@
 - Include CHANGELOG.rst in MANIFEST.in. (`#9083
-
-
-- `CVE-2025-64100 <https://github.com/ckan/ckan/security/advisories/GHSA-2hvh-cw5c-8q8q>`_: Rotate
-  session identifiers to prevent Session Cookie Fixation .
 - `CVE-2025-54384 <https://github.com/ckan/ckan/security/advisories/GHSA-2r4h-8jxv-w2j8>`_: Stored
   XSS vector in Markdown description fields
 - Add handling for ``ObjectNotFound`` to Datapusher ``delete-datastore`` route
