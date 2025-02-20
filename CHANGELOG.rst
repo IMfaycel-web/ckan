@@ -1,7 +1,6 @@
 - Include CHANGELOG.rst in MANIFEST.in. (`#9083
 
-- Add handling for ``ObjectNotFound`` to Datapusher ``delete-datastore`` route
-  (`#9130 <https://github.com/ckan/ckan/pull/9130>`_)
+
 - Fix auth check for ``resource_view_reorder`` (`#9131 <https://github.com/ckan/ckan/pull/9131>`_)
 - Rewrite query to fetch one row instead of whole table in tracking code (`#8757
   <https://github.com/ckan/ckan/pull/8757>`_)
