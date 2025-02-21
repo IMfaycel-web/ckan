@@ -1,9 +1,3 @@
-- Include CHANGELOG.rst in MANIFEST.in. (`#9083
-
-
-- Fix auth check for ``resource_view_reorder`` (`#9131 <https://github.com/ckan/ckan/pull/9131>`_)
-- Rewrite query to fetch one row instead of whole table in tracking code (`#8757
-  <https://github.com/ckan/ckan/pull/8757>`_)
 - Fix ``ckan datastore upgrade`` command with columns containing definition with ``%`` characters (`#9115
   <https://github.com/ckan/ckan/pull/9115>`_)
 - Fix: document js translations generation (`#8927
