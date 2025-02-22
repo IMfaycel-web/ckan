@@ -1,5 +1,4 @@
-- Fix ``ckan datastore upgrade`` command with columns containing definition with ``%`` characters (`#9115
-  <https://github.com/ckan/ckan/pull/9115>`_)
+
 - Fix: document js translations generation (`#8927
   <https://github.com/ckan/ckan/pull/8927>`_)
 - Ensure ``UnicodeDecodeError`` is caught if session data was not improperly
