@@ -1,10 +1,6 @@
 
 - Fix: document js translations generation (`#8927
-- Pass proper context to tabledesigner ``_create_table_and_view`` to preserve the
-  original context from ``resource_create`` and ``resource_update`` (`#9057
-  <https://github.com/ckan/ckan/pull/9057>`_)
-- Use non-zero exit codes when search-index CLI fails (`#9011
-  <https://github.com/ckan/ckan/pull/9011>`_)
+
 - Hide users data from `stats` if the `ckan.auth.public_user_details`
   setting is set to `False`.
   This ensures that user details are not exposed in the statistics when
