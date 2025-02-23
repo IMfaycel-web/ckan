@@ -1,6 +1,5 @@
 
 - Fix: document js translations generation (`#8927
-  <https://github.com/ckan/ckan/pull/8927>`_)
 - Pass proper context to tabledesigner ``_create_table_and_view`` to preserve the
   original context from ``resource_create`` and ``resource_update`` (`#9057
   <https://github.com/ckan/ckan/pull/9057>`_)
