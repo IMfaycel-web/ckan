@@ -1,8 +1,5 @@
 
 - Fix: document js translations generation (`#8927
-
-- Hide users data from `stats` if the `ckan.auth.public_user_details`
-  setting is set to `False`.
   This ensures that user details are not exposed in the statistics when
   public user details are disabled. (`#9030
   <https://github.com/ckan/ckan/pull/9030>`_)
