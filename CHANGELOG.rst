@@ -1,8 +1,3 @@
-
-- Fix: document js translations generation (`#8927
-  This ensures that user details are not exposed in the statistics when
-  public user details are disabled. (`#9030
-  <https://github.com/ckan/ckan/pull/9030>`_)
 - Fixes the font of the sort indicator in datatablesview by properly closing
   the opening <i tag (`#9078 <https://github.com/ckan/ckan/pull/9078>`_)
 - Historical versions of a custom dataset type ignores base template specified
