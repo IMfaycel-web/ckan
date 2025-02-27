@@ -1,7 +1,6 @@
 - Fixes the font of the sort indicator in datatablesview by properly closing
   the opening <i tag (`#9078 <https://github.com/ckan/ckan/pull/9078>`_)
 - Historical versions of a custom dataset type ignores base template specified
-  by the ``IDatasetForm`` interface. (`#8875 <https://github.com/ckan/ckan/pull/8875>`_)
 - Fix ``EXPLAIN JSON`` output sometimes being auto-decoded in multithreaded
   environments by setting json_deserializer at engine level. (`#8929 <https://github.com/ckan/ckan/pull/8929>`_)
 - Catch ``NotAuthorized`` exception raised by ``datastore_search`` (`#8989 <https://github.com/ckan/ckan/pull/8989>`_)
