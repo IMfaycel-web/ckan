@@ -1,10 +1,5 @@
 - Fixes the font of the sort indicator in datatablesview by properly closing
   the opening <i tag (`#9078 <https://github.com/ckan/ckan/pull/9078>`_)
-  
-  environments by setting json_deserializer at engine level. (`#8929 <https://github.com/ckan/ckan/pull/8929>`_)
-- Catch ``NotAuthorized`` exception raised by ``datastore_search`` (`#8989 <https://github.com/ckan/ckan/pull/8989>`_)
-- Remove override of group_dict['package_count'] to display the correct dataset count (`#8252 <https://github.com/ckan/ckan/pull/8252>`_
-
 
 
 v.2.11.3 2025-05-07
