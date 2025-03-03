@@ -1,7 +1,3 @@
-- Fixes the font of the sort indicator in datatablesview by properly closing
-  the opening <i tag (`#9078 <https://github.com/ckan/ckan/pull/9078>`_)
-
-
 v.2.11.3 2025-05-07
 ===================
 
