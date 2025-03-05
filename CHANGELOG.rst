@@ -1,6 +1,5 @@
 - This releases includes a migration to fix existing activities created before a 2.11
   migration not showing up in ``package_activity_list`` calls.
-  If you are using the ``activity`` plugin, apply it with (`#8784 <https://github.com/ckan/ckan/pull/8784>`_)::
 
     ckan db upgrade -p activity
 
