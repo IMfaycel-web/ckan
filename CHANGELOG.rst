@@ -3,7 +3,6 @@
 
     ckan db upgrade -p activity
 
-  and ``flash_error`` helpers called with the ``html`` flag. Existing sessions stored
   inside Redis cannot be deserialized with this new strategy and must be removed using the
   command::
 
