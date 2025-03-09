@@ -1,13 +1,6 @@
-- This releases includes a migration to fix existing activities created before a 2.11
-  migration not showing up in ``package_activity_list`` calls.
 
-    ckan db upgrade -p activity
 
-  inside Redis cannot be deserialized with this new strategy and must be removed using the
-  command::
-
-    redis-cli keys "session:*" | xargs redis-cli del
-
+  
   Non-redis session backends are not affected by this change. (`#8704
   <https://github.com/ckan/ckan/pull/8704>`_)
 
