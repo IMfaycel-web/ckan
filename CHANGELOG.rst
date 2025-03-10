@@ -1,10 +1,3 @@
-
-
-  
-  Non-redis session backends are not affected by this change. (`#8704
-  <https://github.com/ckan/ckan/pull/8704>`_)
-
-Minor changes
 -------------
 - Re-add `get _site_statistics()` helper that was removed without mention in
   the changelog (`#8522 <https://github.com/ckan/ckan/pull/8522>`_)
