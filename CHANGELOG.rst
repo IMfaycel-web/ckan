@@ -1,7 +1,6 @@
 -------------
 - Re-add `get _site_statistics()` helper that was removed without mention in
-  the changelog (`#8522 <https://github.com/ckan/ckan/pull/8522>`_)
-- Register pytest plugins as entrypoints to make them available to all
+
   extensions (`#8507 <https://github.com/ckan/ckan/pull/8507>`_)
 - Restore activity API documentation. (`#8780
   <https://github.com/ckan/ckan/pull/8780>`_)
