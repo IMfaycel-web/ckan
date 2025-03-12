@@ -3,7 +3,6 @@
 
   extensions (`#8507 <https://github.com/ckan/ckan/pull/8507>`_)
 - Restore activity API documentation. (`#8780
-  <https://github.com/ckan/ckan/pull/8780>`_)
 - Switch 'datastore_info' to use 'resource_id' as input argument (`#8907
   <https://github.com/ckan/ckan/pull/8907>`_)
 
