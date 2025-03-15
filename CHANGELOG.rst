@@ -1,11 +1,5 @@
 -------------
 - Re-add `get _site_statistics()` helper that was removed without mention in
-
-  extensions (`#8507 <https://github.com/ckan/ckan/pull/8507>`_)
-- Restore activity API documentation. (`#8780
-- Switch 'datastore_info' to use 'resource_id' as input argument (`#8907
-  <https://github.com/ckan/ckan/pull/8907>`_)
-
 - Update release process docs (`#8586
   <https://github.com/ckan/ckan/pull/8586>`_)
 - Migrate CI checks to GitHub Actions (`#8909
