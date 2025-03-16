@@ -1,12 +1,3 @@
--------------
-- Re-add `get _site_statistics()` helper that was removed without mention in
-- Update release process docs (`#8586
-  <https://github.com/ckan/ckan/pull/8586>`_)
-- Migrate CI checks to GitHub Actions (`#8909
-  <https://github.com/ckan/ckan/pull/8909>`_)
-- Upgrade Jinja2 requirement to address CVE-2025-27516
-
-
 Bugfixes
 --------
 
