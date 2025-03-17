@@ -1,7 +1,7 @@
 Bugfixes
 --------
 
-- Set license model ``od_conformance`` and ``osd_conformance`` attributes' default
+- Set license  ``od_conformance`` and ``osd_conformance`` attributes' default
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
 - Restore usage of ``follow_button`` snippet so it can be overridden and
