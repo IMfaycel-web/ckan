@@ -4,7 +4,6 @@ Bugfixes
 - Set license  ``od_conformance`` and ``osd_conformance`` attributes' default
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
-- Restore usage of ``follow_button`` snippet so it can be overridden and
   customised (`#8651 <https://github.com/ckan/ckan/pull/8651>`_)
 - Don't encode binary font files when building the frontend (`#8666
   <https://github.com/ckan/ckan/pull/8666>`_)
