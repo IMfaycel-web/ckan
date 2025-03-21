@@ -4,10 +4,7 @@ Bugfixes
 - Set license  ``od_conformance`` and ``osd_conformance`` attributes' default
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
-  customised (`#8651 <https://github.com/ckan/ckan/pull/8651>`_)
-- Don't encode binary font files when building the frontend (`#8666
-  <https://github.com/ckan/ckan/pull/8666>`_)
-- Fix exception in ``recently_changed_packages_activity_list`` action (`#8677
+
   <https://github.com/ckan/ckan/pull/8677>`_)
 - Fix error in datastore upgrade: don't process datastore column comments for
   sqlalchemy bind parameters (`#8693
