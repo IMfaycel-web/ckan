@@ -5,9 +5,6 @@ Bugfixes
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
 
-  <https://github.com/ckan/ckan/pull/8677>`_)
-- Fix error in datastore upgrade: don't process datastore column comments for
-  sqlalchemy bind parameters (`#8693
   <https://github.com/ckan/ckan/pull/8693>`_)
 - Fix database revision 105 downgrade. Ensure ``resource.package_id -> package.id``
   foreign key constraint is dropped. (`#8707
