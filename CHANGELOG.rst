@@ -6,7 +6,6 @@ Bugfixes
   <https://github.com/ckan/ckan/pull/8268>`_)
 
   <https://github.com/ckan/ckan/pull/8693>`_)
-- Fix database revision 105 downgrade. Ensure ``resource.package_id -> package.id``
   foreign key constraint is dropped. (`#8707
   <https://github.com/ckan/ckan/pull/8707>`_)
 - You can now use non-string values in ``datastore_search`` and
