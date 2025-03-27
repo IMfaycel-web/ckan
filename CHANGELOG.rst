@@ -5,10 +5,6 @@ Bugfixes
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
 
-  <https://github.com/ckan/ckan/pull/8693>`_)
-  foreign key constraint is dropped. (`#8707
-  <https://github.com/ckan/ckan/pull/8707>`_)
-- You can now use non-string values in ``datastore_search`` and
   ``datastore_delete`` filters for text datatype fields. (`#8729
   <https://github.com/ckan/ckan/pull/8729>`_)
 - ``datastore_search``: return records as ``LazyJSONObject`` only when called from api
