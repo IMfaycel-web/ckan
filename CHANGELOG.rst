@@ -4,10 +4,7 @@ Bugfixes
 - Set license  ``od_conformance`` and ``osd_conformance`` attributes' default
   values to `False` to prevent errors. (`#8268
   <https://github.com/ckan/ckan/pull/8268>`_)
-
-  ``datastore_delete`` filters for text datatype fields. (`#8729
-  <https://github.com/ckan/ckan/pull/8729>`_)
-- ``datastore_search``: return records as ``LazyJSONObject`` only when called from api
+t`` only when called from api
   view. (`#8739 <https://github.com/ckan/ckan/pull/8739>`_)
 - Fixed an issue with using ``filters`` in ``datastore_search`` with CSV/TSV
   records format. (`#8741 <https://github.com/ckan/ckan/pull/8741>`_)
