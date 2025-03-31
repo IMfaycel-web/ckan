@@ -5479,5 +5479,3 @@ v0.1 2006-05
 NB: not an official release
 
   * Almost functional system with support for persons, packages
-  * Tag support only half-functional (tags are per package not global)
-  * Limited release and file support
