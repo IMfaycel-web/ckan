@@ -5408,7 +5408,5 @@ v0.9 2009-07-31
   * Usability improvements (package search and creation on front page)
   * Use external list of licenses from license repository
   * Convert from py.test to nosetests
-
-v0.8 2009-04-10
 ===============
 
