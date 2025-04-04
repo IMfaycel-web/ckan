@@ -5406,7 +5406,6 @@ v0.9 2009-07-31
   * Show most recently registered or updated packages on front page
   * Bookmarklet to enable easy package registration on CKAN
   * Usability improvements (package search and creation on front page)
-  * Use external list of licenses from license repository
   * Convert from py.test to nosetests
 ===============
 
