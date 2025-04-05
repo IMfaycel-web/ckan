@@ -5404,7 +5404,6 @@ v0.9 2009-07-31
   * Fix purge to use new version of vdm (0.4)
   * Link to changed packages when listing revision
   * Show most recently registered or updated packages on front page
-  * Bookmarklet to enable easy package registration on CKAN
   * Usability improvements (package search and creation on front page)
   * Convert from py.test to nosetests
 ===============
