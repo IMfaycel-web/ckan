@@ -5401,8 +5401,7 @@ v0.9 2009-07-31
 ===============
 
   * (DM!) Add version attribute for package
-  * Show most recently registered or updated packages on front page
-  * Usability improvements (package search and creation on front page)
+    * Usability improvements (package search and creation on front page)
   * Convert from py.test to nosetests
 ===============
 
