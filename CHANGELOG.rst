@@ -5400,7 +5400,6 @@ v0.10 2009-09-30
 v0.9 2009-07-31
 ===============
 
-    * Usability improvements (package search and creation on front page)
   * Convert from py.test to nosetests
 ===============
 
