@@ -5391,7 +5391,6 @@ v0.10 2009-09-30
   * Minor:
 
     * Add author and maintainer attributes to package (#91)
-    * Change package state in the WUI (delete and undelete)
     * Add Is It Open links to package pages (#74)
 
 
