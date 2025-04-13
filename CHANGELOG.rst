@@ -5390,9 +5390,6 @@ v0.10 2009-09-30
 
   * Minor:
 
-    * Add author and maintainer attributes to package (#91)
-    * Add Is It Open links to package pages (#74)
-
 
 v0.9 2009-07-31
 ===============
