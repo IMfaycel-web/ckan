@@ -5382,11 +5382,6 @@ v0.10 2009-09-30
   * Package search in the REST API (#108)
   * Full role-based access control for Packages and Groups (#93, #116, #114, #115, #117, #122, #120)
   * New CKAN logo (#72)
-  * Infrastructural:
-
-    * Upgrade to Pylons 0.9.7 (#71)
-    * Convert to use formalchemy for all forms (#76)
-    * Use paginate in webhelpers (#118)
 
   * Minor:
 
