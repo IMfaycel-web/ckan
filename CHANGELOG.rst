@@ -5380,7 +5380,6 @@ v0.10 2009-09-30
   * Use sqlalchemy-migrate to handle db/model upgrades (#94)
   * "Groups" of packages (#105, #110, #130, #121, #123, #131)
   * Package search in the REST API (#108)
-  * Full role-based access control for Packages and Groups (#93, #116, #114, #115, #117, #122, #120)
   * New CKAN logo (#72)
 
   * Minor:
