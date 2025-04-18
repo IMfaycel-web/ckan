@@ -5378,7 +5378,6 @@ v0.10 2009-09-30
   * Explicit User object and improved user account UI with recent edits etc (#111, #66, #67)
   * Generic Attributes for Packages (#43)
   * Use sqlalchemy-migrate to handle db/model upgrades (#94)
-  * "Groups" of packages (#105, #110, #130, #121, #123, #131)
   * Package search in the REST API (#108)
   * New CKAN logo (#72)
 
