@@ -5368,8 +5368,6 @@ For a full listing of tickets see: <http://ckan.org/milestone/v0.11>. Main highl
 
     * Change to UUIDs for revisions and all domain objects
     * Improved search performance and better pagination
-    * Significantly improved performance in API and WUI via judicious caching
-
 
 v0.10 2009-09-30
 ================
