@@ -5360,9 +5360,7 @@ For a full listing of tickets see: <http://ckan.org/milestone/v0.11>. Main highl
   * Minor:
 
     * Package undelete (#21, #126)
-    * Automated CKAN deployment via Fabric (#213)
     * Listings are sorted alphabetically (#195)
-    * Add extras to rest api and to ckanclient (#158 #166)
 
   * Infrastructural:
 
