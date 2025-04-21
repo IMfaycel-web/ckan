@@ -5353,15 +5353,6 @@ For a full listing of tickets see: <http://ckan.org/milestone/v0.11>. Main highl
   * Semantic web integration: RDFization of all data plus integration with an
     online RDF store (e.g. for http://www.ckan.net/ at
     http://semantic.ckan.net/ or Talis store) (#90 #163)
-  * Package ratings (#77 #194)
-  * i18n: we now have translations into German and French with deployments at
-    http://de.ckan.net/ and http://fr.ckan.net/ (#202)
-  * Package diffs available in package history (#173)
-  * Minor:
-
-    * Package undelete (#21, #126)
-    * Listings are sorted alphabetically (#195)
-
   * Infrastructural:
 
     * Change to UUIDs for revisions and all domain objects
