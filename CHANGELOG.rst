@@ -5349,11 +5349,7 @@ For a full listing of tickets see: <http://ckan.org/milestone/v0.11>. Main highl
   * Package Resource object (multiple download urls per package): each package
     can have multiple 'resources' (urls) with each resource having additional
     metadata such as format, description and hash (#88, #89, #229)
-  * "Full-text" searching of packages (#187)
-  * Semantic web integration: RDFization of all data plus integration with an
-    online RDF store (e.g. for http://www.ckan.net/ at
-    http://semantic.ckan.net/ or Talis store) (#90 #163)
-  * Infrastructural:
+
 
     * Change to UUIDs for revisions and all domain objects
     * Improved search performance and better pagination
