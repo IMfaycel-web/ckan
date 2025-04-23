@@ -5344,9 +5344,6 @@ v0.11 2010-01-25
 
 Our biggest release so far (55 tickets) with lots of new features and improvements. This release also saw a major new production deployment with the CKAN software powering http://data.gov.uk/ which had its public launch on Jan 21st!
 
-For a full listing of tickets see: <http://ckan.org/milestone/v0.11>. Main highlights:
-
-  * Package Resource object (multiple download urls per package): each package
     can have multiple 'resources' (urls) with each resource having additional
     metadata such as format, description and hash (#88, #89, #229)
 
