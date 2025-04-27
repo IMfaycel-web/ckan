@@ -5334,9 +5334,6 @@ Bugfixes:
 
 Infrastructural:
 
-  * Licenses: now uses external License Service ('licenses' Python module)
-  * Changesets introduced to support distributed revisioning of CKAN data - see
-    doc/distributed.rst for more information.
 
 
 v0.11 2010-01-25
