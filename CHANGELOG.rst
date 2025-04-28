@@ -5330,10 +5330,6 @@ Bugfixes:
   * Resources were losing their history (#292)
   * Extra fields now work with spaces in the name (#278, #280) and
     international characters (#288)
-  * Updating resources in the REST API (#293)
-
-Infrastructural:
-
 
 
 v0.11 2010-01-25
