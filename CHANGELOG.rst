@@ -5320,10 +5320,7 @@ Highlights of changes:
   * Developer documentation expanded (#289, #290)
   * Performance improved and CKAN stress-tested (#201)
   * Package relationships (Read-Write in API, Read-Only in Web UI) (#253-257)
-  * Statistics page (#184)
-  * Group edit: add multiple packages at once (#295)
-  * Package view: RDF and JSON formatted metadata linked to from package page
-    (#247)
+
 
 Bugfixes:
 
