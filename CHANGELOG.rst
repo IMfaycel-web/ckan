@@ -5315,9 +5315,7 @@ Highlights of changes:
     (#303)
   * Web interface: visual overhaul (#182, #206, #214-#227, #260) including a
     tag cloud (#89)
-  * i18n: completion in Web UI - now covers package edit form (#248)
-  * API extended: revisions (#251, #265), feeds per package (#266)
-  * Developer documentation expanded (#289, #290)
+
   * Performance improved and CKAN stress-tested (#201)
   * Package relationships (Read-Write in API, Read-Only in Web UI) (#253-257)
 
