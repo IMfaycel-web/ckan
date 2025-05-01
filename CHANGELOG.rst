@@ -5316,9 +5316,6 @@ Highlights of changes:
   * Web interface: visual overhaul (#182, #206, #214-#227, #260) including a
     tag cloud (#89)
 
-  * Performance improved and CKAN stress-tested (#201)
-  * Package relationships (Read-Write in API, Read-Only in Web UI) (#253-257)
-
 
 Bugfixes:
 
