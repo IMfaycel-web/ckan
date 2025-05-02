@@ -5311,10 +5311,7 @@ http://ckan.org/milestone/v1.0
 Highlights of changes:
 
   * Package edit form: new pluggable architecture for custom forms (#281, #286)
-  * Package revisions: diffs now include tag, license and resource changes
-    (#303)
-  * Web interface: visual overhaul (#182, #206, #214-#227, #260) including a
-    tag cloud (#89)
+
 
 
 Bugfixes:
