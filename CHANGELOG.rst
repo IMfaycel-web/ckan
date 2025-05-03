@@ -5308,10 +5308,6 @@ CKAN comes of age, having been used successfully in several deployments around
 the world. 56 tickets covered in this release. See:
 http://ckan.org/milestone/v1.0
 
-Highlights of changes:
-
-  * Package edit form: new pluggable architecture for custom forms (#281, #286)
-
 
 
 Bugfixes:
