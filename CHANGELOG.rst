@@ -5304,10 +5304,6 @@ Bugfixes:
 v1.0 2010-05-11
 ===============
 
-CKAN comes of age, having been used successfully in several deployments around
-the world. 56 tickets covered in this release. See:
-http://ckan.org/milestone/v1.0
-
 
 
 Bugfixes:
