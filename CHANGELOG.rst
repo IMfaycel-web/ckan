@@ -5300,15 +5300,6 @@ Bugfixes:
   * Web i/f searches foreign characters (#319)
   * Data importer timezone issue (#330)
 
-
-v1.0 2010-05-11
-===============
-
-
-
-Bugfixes:
-
-  * Resources were losing their history (#292)
   * Extra fields now work with spaces in the name (#278, #280) and
     international characters (#288)
 
