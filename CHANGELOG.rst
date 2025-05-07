@@ -5297,11 +5297,7 @@ Bugfixes:
   * Revision primary key lost in migrating data (#311)
   * Local authority license correction in migration (#319)
   * I18n formatting issues
-  * Web i/f searches foreign characters (#319)
-  * Data importer timezone issue (#330)
 
-  * Extra fields now work with spaces in the name (#278, #280) and
-    international characters (#288)
 
 
 v0.11 2010-01-25
