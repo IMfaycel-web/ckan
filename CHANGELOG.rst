@@ -5292,12 +5292,6 @@ Functionality:
   * Pluggable search - initial hooks
   * Customisable templates (#340) and external UI hooks (#335)
 
-Bugfixes:
-
-  * Revision primary key lost in migrating data (#311)
-  * Local authority license correction in migration (#319)
-  * I18n formatting issues
-
 
 
 v0.11 2010-01-25
