@@ -5288,9 +5288,6 @@ v1.0.1 2010-06-23
 Functionality:
 
   * API: Revision search 'since id' and revision model in API
-  * API: Basic API versioning - packages specified by ID (#313)
-  * Pluggable search - initial hooks
-  * Customisable templates (#340) and external UI hooks (#335)
 
 
 
