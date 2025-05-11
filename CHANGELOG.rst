@@ -5285,12 +5285,6 @@ v1.0.2 2010-08-27
 v1.0.1 2010-06-23
 =================
 
-Functionality:
-
-  * API: Revision search 'since id' and revision model in API
-
-
-
 v0.11 2010-01-25
 ================
 
