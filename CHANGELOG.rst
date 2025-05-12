@@ -5282,13 +5282,6 @@ v1.0.2 2010-08-27
  * Bugfix: API returns error when creating package (#432)
 
 
-v1.0.1 2010-06-23
-=================
-
-v0.11 2010-01-25
-================
-
-
     metadata such as format, description and hash (#88, #89, #229)
 
 
