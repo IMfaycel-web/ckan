@@ -5275,13 +5275,6 @@ Minor:
   * Search engine optimisations e.g. alphabetical browsing (#350)
   * CSV and JSON dumps improved (#315)
 
-
-v1.0.2 2010-08-27
-=================
-
- * Bugfix: API returns error when creating package (#432)
-
-
     metadata such as format, description and hash (#88, #89, #229)
 
 
