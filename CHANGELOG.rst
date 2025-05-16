@@ -5272,12 +5272,6 @@ Highlights of changes:
     insert HTML into pages.
 
 Minor:
-  * Search engine optimisations e.g. alphabetical browsing (#350)
-  * CSV and JSON dumps improved (#315)
-
-    metadata such as format, description and hash (#88, #89, #229)
-
-
     * Change to UUIDs for revisions and all domain objects
     * Improved search performance and better pagination
 
