@@ -5267,11 +5267,7 @@ Highlights of changes:
     (#313)
   * Resource search in API (#336)
   * Visual theming of CKAN now easy (#340, #320)
-  * Greater integration with external Web UIs (#335, #347, #348)
-  * Plug-ins can be configured to handle web requests from specified URIs and
-    insert HTML into pages.
 
-Minor:
     * Change to UUIDs for revisions and all domain objects
     * Improved search performance and better pagination
 
