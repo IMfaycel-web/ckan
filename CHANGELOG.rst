@@ -5267,8 +5267,6 @@ Highlights of changes:
     (#313)
   * Resource search in API (#336)
   * Visual theming of CKAN now easy (#340, #320)
-
-    * Change to UUIDs for revisions and all domain objects
     * Improved search performance and better pagination
 
 v0.10 2009-09-30
