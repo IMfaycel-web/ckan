@@ -5265,8 +5265,6 @@ Highlights of changes:
   * Pluggable search engines (#317), including SOLR (#353)
   * API is versioned and packages & groups can be referred to by invariant ID
     (#313)
-  * Resource search in API (#336)
-  * Visual theming of CKAN now easy (#340, #320)
 
 v0.10 2009-09-30
 ================
