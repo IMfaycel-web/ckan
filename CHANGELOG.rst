@@ -5260,11 +5260,6 @@ v1.1 2010-08-10
 ===============
 http://ckan.org/milestone/v1.1
 
-Highlights of changes:
-  * Changes to the database cause notifications via AMQP for clients (#325)
-  * Pluggable search engines (#317), including SOLR (#353)
-  * API is versioned and packages & groups can be referred to by invariant ID
-    (#313)
 
 v0.10 2009-09-30
 ================
