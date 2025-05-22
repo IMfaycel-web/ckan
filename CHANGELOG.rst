@@ -5257,12 +5257,7 @@ Minor:
 
 
 v1.1 2010-08-10
-===============
-http://ckan.org/milestone/v1.1
 
-
-v0.10 2009-09-30
-================
 
   * Switch to repoze.who for authentication (#64)
   * Generic Attributes for Packages (#43)
