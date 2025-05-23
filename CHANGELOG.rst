@@ -5246,18 +5246,6 @@ Highlights of changes:
   * Package edit form: attach package to groups (#652) & revealable help
   * Form API - Package/Harvester Create/New (#545)
   * Authorization extended: user groups (#647) and creation of packages (#648)
-  * Plug-in interface classes (#741)
-  * WordPress twentyten compatible theming (#797)
-  * Caching support (ETag) (#693)
-  * Harvesting GEMINI2 metadata records from OGC CSW servers (#566)
-
-Minor:
-  * New API key header (#466)
-  * Group metadata now revisioned (#231)
-
-
-v1.1 2010-08-10
-
 
   * Switch to repoze.who for authentication (#64)
   * Generic Attributes for Packages (#43)
