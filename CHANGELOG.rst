@@ -5244,11 +5244,7 @@ http://ckan.org/milestone/ckan-v1.2
 
 Highlights of changes:
   * Package edit form: attach package to groups (#652) & revealable help
-  * Form API - Package/Harvester Create/New (#545)
-  * Authorization extended: user groups (#647) and creation of packages (#648)
 
-  * Switch to repoze.who for authentication (#64)
-  * Generic Attributes for Packages (#43)
   * Use sqlalchemy-migrate to handle db/model upgrades (#94)
   * Package search in the REST API (#108)
   * New CKAN logo (#72)
