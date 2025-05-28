@@ -5242,12 +5242,6 @@ v1.2 2010-11-25
 ===============
 http://ckan.org/milestone/ckan-v1.2
 
-Highlights of changes:
-  * Package edit form: attach package to groups (#652) & revealable help
-
-  * Use sqlalchemy-migrate to handle db/model upgrades (#94)
-  * Package search in the REST API (#108)
-  * New CKAN logo (#72)
 
   * Minor:
 
