@@ -5238,13 +5238,6 @@ Minor:
   * Group now versioned (#231)
 
 
-v1.2 2010-11-25
-===============
-http://ckan.org/milestone/ckan-v1.2
-
-v0.9 2009-07-31
-===============
-
   * Convert from py.test to nosetests
 ===============
 
