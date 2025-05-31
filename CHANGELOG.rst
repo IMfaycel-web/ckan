@@ -5052,30 +5052,3 @@ Minor:
  * Resource format autocomplete (#816)
  * Database disconnection gives better error message (#1290)
  * Log-in cookie is preserved between sessions (#78)
- * Extensions can access formalchemy forms (#1301)
- * 'Dataset' is the new name for 'Package' (#1293)
- * Resource standard fields added: type, format, size (#1324)
- * Listing users speeded up (#1268)
- * Basic data preview functionality moved to core from QA extension (#1357)
- * Admin Extension merged into core CKAN (#1264)
- * URLs in the Notes field are automatically linked (#1320)
- * Disallow OpenID for account creation (but can be linked to accounts) (#1386)
- * Tag name now validated for max length (#1418)
-
-Bug fixes:
- * Purging of revisions didn't work (since 1.4.3) (#1258)
- * Search indexing wasn't working for SOLR (since 1.4.3) (#1256)
- * Configuration errors were being ignored (since always) (#1172)
- * Flash messages were temporarily held-back when using proxy cache (since 1.3.2) (#1321)
- * On login, user told 'welcome back' even if he's just registered (#1194)
- * Various minor exceptions cropped up (mostly since 1.4.3) (#1334, #1346)
- * Extra field couldn't be set to original value when key deleted (#1356)
- * JSONP callback parameter didn't work for the Action API (since 1.4.3) (#1437)
- * The same tag could be added to a package multiple times (#1331)
-
-
-v1.4.3.1 2011-09-30
-===================
-Minor:
- * Added files to allow debian packaging of CKAN
- * Added Catalan translation
