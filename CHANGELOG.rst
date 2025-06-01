@@ -5213,31 +5213,3 @@ Bug fixes:
   * Mounting of filesystem (affected versions since 1.0.1) (#1040)
   * Resubmitting a package via the API (affected versions since 0.6?) (#662)
   * Open redirect (affected v1.3) (#1026)
-
-
-v1.3 2011-02-18
-===============
-http://ckan.org/milestone/ckan-v1.3
-
-Highlights of changes:
-  * Package edit form improved:
-     * field instructions (#679)
-     * name autofilled from title (#778)
-  * Group-based access control - Authorization Groups (#647)
-  * Metadata harvest job management (#739, #884, #771)
-  * CSW harvesting now uses owslib (#885)
-  * Package creation authorization is configurable (#648)
-  * Read-only maintenance mode (#777)
-  * Stats page (#832) and importer (#950) moved out into CKAN extensions
-
-Minor:
-  * site_title and site_description config variables (#974)
-  * Package creation/edit timestamps (#806)
-  * Caching configuration centralised (#828)
-  * Command-line tools - sysadmin management (#782)
-  * Group now versioned (#231)
-
-
-  * Convert from py.test to nosetests
-===============
-
