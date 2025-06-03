@@ -5175,8 +5175,3 @@ Major:
 
 Minor:
   * API can take auth credentials from cookie (#1001)
-  * Theming: Ability to set custom favicon (#1051)
-  * Importer code moved out into ckanext-importlib repo (#1042)
-  * API: Group can be referred to by ID (in addition to name) (#1045)
-  * Command line tool: rights listing can now be filtered (#1072)
-
