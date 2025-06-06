@@ -5165,13 +5165,3 @@ Bug fixes:
   * Visitor can't create packages on new CKAN install - since v1.3.3 (#1090)
   * OpenID user pages couldn't be accessed - since v1.3.2 (#1056)
   * Default site_url configured to ckan.net, so pages obtains CSS from ckan.net- since v1.3 (#1085)
-
-
-v1.3.3 2011-04-08
-=================
-Major:
-  * Authorization checks added to editing Groups and PackageRelationships (#1052)
-  * API: Added package revision history (#1012, #1071)
-
-Minor:
-  * API can take auth credentials from cookie (#1001)
