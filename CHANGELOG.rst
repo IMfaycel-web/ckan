@@ -5161,7 +5161,3 @@ Minor:
   * Command-line tool to check search index covers all packages (#1073)
   * Command-line tool to load/dump postgres database (#1067)
 
-Bug fixes:
-  * Visitor can't create packages on new CKAN install - since v1.3.3 (#1090)
-  * OpenID user pages couldn't be accessed - since v1.3.2 (#1056)
-  * Default site_url configured to ckan.net, so pages obtains CSS from ckan.net- since v1.3 (#1085)
