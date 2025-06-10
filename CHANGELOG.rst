@@ -5155,9 +5155,3 @@ Major:
   * Links to RDF, N3 and Turtle metadata formats provided by semantic.ckan.net (#1088)
   * Refactor internal logic to all use packages in one format - a dictionary (#1046)
   * A new button for administrators to change revisions to/from a deleted state (#1076)
-
-Minor:
-  * Etags caching can now be disabled in config (#840)
-  * Command-line tool to check search index covers all packages (#1073)
-  * Command-line tool to load/dump postgres database (#1067)
-
