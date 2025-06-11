@@ -5147,11 +5147,3 @@ Minor:
 Bug fixes
   * Duplicate authorization roles were difficult to delete (#1083)
 
-
-v1.4 2011-05-19
-===============
-Major:
-  * Authorization forms now in grid format (#1074)
-  * Links to RDF, N3 and Turtle metadata formats provided by semantic.ckan.net (#1088)
-  * Refactor internal logic to all use packages in one format - a dictionary (#1046)
-  * A new button for administrators to change revisions to/from a deleted state (#1076)
