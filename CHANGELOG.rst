@@ -5131,19 +5131,3 @@ Bug fixes:
   * API Package edit requests returned the Package in a different format to usual - since 1.4 (#1214)
   * API error responses were not all JSON format and didn't have correct Content-Type (#1214)
   * API package delete doesn't require a Content-Length header (#1214)
-
-
-v1.4.1 2011-06-27
-=================
-Major:
-  * Refactor Web interface to use logic layer rather than model objects directly. Forms now defined in navl schema and designed in HTML template. Forms use of Formalchemy is deprecated. (#1078)
-
-Minor:
-  * Links in user-supplied text made less attractive to spammers (nofollow) #1181
-  * Package change notifications - remove duplicates (#1149)
-  * Metadata dump linked to (#1169)
-  * Refactor authorization code to be common across Package, Group and Authorization Group (#1074)
-
-Bug fixes
-  * Duplicate authorization roles were difficult to delete (#1083)
-
