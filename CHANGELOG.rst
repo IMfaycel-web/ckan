@@ -5125,4 +5125,4 @@ Minor:
 
 Bug fixes:
   * When you removed last row of resource table, you couldn't add it again - since 1.0 (#1215)
-  * Adding a tag to package that had it previously didn't work - since 1.4.1 in UI and 1.4.0 in API (#1239)
+  * Adding a tag to  that had it previously didn't work - since 1.4.1 in UI and 1.4.0 in API (#1239)
