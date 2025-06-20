@@ -5122,6 +5122,3 @@ Minor:
   * Viewing of a package at any revision (#1236)
   * API POSTs can be of Content-Type "application/json" as alternative to existing "application/x-www-form-urlencoded" (#1206)
   * Caching of static files (#1223)
-
-Bug fixes:
-  * When you removed last row of resource table, you couldn't add it again - since 1.0 (#1215)
