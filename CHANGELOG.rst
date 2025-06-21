@@ -5117,8 +5117,3 @@ v1.4.2 2011-08-05
 Major:
   * Packages revisions can be marked as 'moderated' (#1141, #1147)
   * Password reset facility (#1186/#1198)
-
-Minor:
-  * Viewing of a package at any revision (#1236)
-  * API POSTs can be of Content-Type "application/json" as alternative to existing "application/x-www-form-urlencoded" (#1206)
-  * Caching of static files (#1223)
