@@ -5113,7 +5113,3 @@ Bug fixes:
 
 
 v1.4.2 2011-08-05
-=================
-Major:
-  * Packages revisions can be marked as 'moderated' (#1141, #1147)
-  * Password reset facility (#1186/#1198)
