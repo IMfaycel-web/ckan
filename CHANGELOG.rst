@@ -5109,7 +5109,4 @@ Bug fixes:
   * Incompatibilities with Python 2.5 (since 1.3.4.1 and maybe earlier) (#1325)
   * You could create an authorization group without a name, causing exceptions displaying it (#1323)
   * Revision list wasn't showing deleted packages (b21f4)
-  * User editing error conditions handled badly (#1265)
-
-
 v1.4.2 2011-08-05
