@@ -5105,8 +5105,3 @@ Minor:
 Bug fixes:
   * Re-adding tags to a package failed (since 1.4.1 in Web UI, 1.4 in API) (#1239)
   * Modified revisions retrieved over API caused exception (since 1.4.2) (#1310)
-  * Whichever language you changed to, it announced "Language set to: English" (since 1.3.1) (#1082)
-  * Incompatibilities with Python 2.5 (since 1.3.4.1 and maybe earlier) (#1325)
-  * You could create an authorization group without a name, causing exceptions displaying it (#1323)
-  * Revision list wasn't showing deleted packages (b21f4)
-v1.4.2 2011-08-05
