@@ -5087,21 +5087,3 @@ Bug fixes:
 
 v1.4.3 2011-09-13
 =================
-Major:
-  * Action API (API v3) (beta version) provides powerful RPC-style API to CKAN data (#1335)
-  * Documentation overhaul (#1142, #1192)
-
-Minor:
-  * Viewing of a package at a given date (as well as revision) with improved UI (#1236)
-  * Extensions can now add functions to the logic layer (#1211)
-  * Refactor all remaining database code out of the controllers and into the logic layer (#1229)
-  * Any OpenID log-in errors that occur are now displayed (#1228)
-  * 'url' field added to search index (e9214)
-  * Speed up tag reading (98d72)
-  * Cope with new WebOb version 1 (#1267)
-  * Avoid exceptions caused by bots hitting error page directly (#1176)
-  * Too minor to mention: #1234,
-
-Bug fixes:
-  * Re-adding tags to a package failed (since 1.4.1 in Web UI, 1.4 in API) (#1239)
-  * Modified revisions retrieved over API caused exception (since 1.4.2) (#1310)
