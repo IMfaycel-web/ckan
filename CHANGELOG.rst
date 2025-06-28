@@ -5083,7 +5083,3 @@ Minor:
 Bug fixes:
  * Incorrect Group creation form parameter caused exception (#1347)
  * Incorrect AuthGroup creation form parameter caused exception (#1346)
-
-
-v1.4.3 2011-09-13
-=================
