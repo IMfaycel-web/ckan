@@ -5079,7 +5079,3 @@ v1.4.3.1 2011-09-30
 Minor:
  * Added files to allow debian packaging of CKAN
  * Added Catalan translation
-
-Bug fixes:
- * Incorrect Group creation form parameter caused exception (#1347)
- * Incorrect AuthGroup creation form parameter caused exception (#1346)
