@@ -5051,4 +5051,3 @@ Minor:
  * Strings to translate into other languages tidied up (#1249)
  * Resource format autocomplete (#816)
  * Database disconnection gives better error message (#1290)
- * Log-in cookie is preserved between sessions (#78)
