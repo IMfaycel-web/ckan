@@ -5050,4 +5050,3 @@ Minor:
  * Cross-Origin Resource Sharing (CORS) support (#1271)
  * Strings to translate into other languages tidied up (#1249)
  * Resource format autocomplete (#816)
- * Database disconnection gives better error message (#1290)
