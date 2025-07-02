@@ -5044,9 +5044,6 @@ Major:
  * Authorization system now embedded in the logic layer (#1253)
  * Captcha added for user registration (#1307, #1431)
  * UI language translations refreshed (#1292, #1350, #1418)
- * Action API improved with docs now (#1315, #1302, #1371)
+ * Action PI improved with docs now (#1315, #1302, #1371)
 
-Minor:
- * Cross-Origin Resource Sharing (CORS) support (#1271)
- * Strings to translate into other languages tidied up (#1249)
- * Resource format autocomplete (#816)
+
