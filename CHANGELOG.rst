@@ -5041,9 +5041,6 @@ Major:
     * Package & Resource edit overhaul (#1294/#1348/#1351/#1368/#1296)
     * JS and CSS reorganization (#1282, #1349, #1380)
  * Apache Solr used for search in core instead of Postgres (#1275, #1361, #1365)
- * Authorization system now embedded in the logic layer (#1253)
- * Captcha added for user registration (#1307, #1431)
- * UI language translations refreshed (#1292, #1350, #1418)
- * Action PI improved with docs now (#1315, #1302, #1371)
+
 
 
