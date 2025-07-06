@@ -4990,7 +4990,3 @@ Bug fixes:
 
 v1.5.1 2012-01-04
 =================
-
-Major:
- * Background tasks (#1363, #1371, #1408)
- * Fix for security issue affecting CKAN v1.5 (#1585)
