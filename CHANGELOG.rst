@@ -4986,7 +4986,3 @@ Bug fixes:
  * Occasionally, 'My Account' shows when user is not logged in (#1513)
  * Could not change language when on a tag page that had accented characters or dataset creation page (#1783, #1791)
  * Editing package via API deleted its relationships (#1786)
-
-
-v1.5.1 2012-01-04
-=================
