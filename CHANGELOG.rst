@@ -4981,6 +4981,3 @@ Bug fixes:
  * Registering or Logging in failed silently when already logged in (#1799)
  * Deleted packages were browsable by administrators and appeared in dumps (#1283, #1623)
  * Facicon was a broken link unless corrected in config file (#1627)
- * Dataset search showed last result of each page out of order (#1683)
- * 'Simple search' mode showed 0 packages on home page (#1709)
- * Occasionally, 'My Account' shows when user is not logged in (#1513)
