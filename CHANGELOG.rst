@@ -4977,7 +4977,3 @@ Bug fixes:
  * Group deletion didn't work (#1536)
  * metadata_created used to return an entirely wrong date (#1546)
  * Unicode characters in field-specific API search queries caused exception (since CKAN 1.5) (#1798)
- * Sometimes task_status errors weren't being recorded (#1483)
- * Registering or Logging in failed silently when already logged in (#1799)
- * Deleted packages were browsable by administrators and appeared in dumps (#1283, #1623)
- * Facicon was a broken link unless corrected in config file (#1627)
