@@ -4976,4 +4976,3 @@ Minor:
 Bug fixes:
  * Group deletion didn't work (#1536)
  * metadata_created used to return an entirely wrong date (#1546)
- * Unicode characters in field-specific API search queries caused exception (since CKAN 1.5) (#1798)
