@@ -4972,7 +4972,3 @@ Minor:
  * Model and API for Users to become Members of a Group in a certain Capacity (#1531, #1477)
  * Extension interface to adjust search queries, indexing and results (#1547, #1738)
  * API for changing permissions (#1688)
-
-Bug fixes:
- * Group deletion didn't work (#1536)
- * metadata_created used to return an entirely wrong date (#1546)
