@@ -4968,7 +4968,3 @@ Minor:
  * 'Status' API call now includes installed extensions (#1488)
  * Command-line interface for list/read/deleting datasets (#1499)
  * Slug API calls tidied up and documented (#1500)
- * Users nagged to add email address if missing from their account (#1413)
- * Model and API for Users to become Members of a Group in a certain Capacity (#1531, #1477)
- * Extension interface to adjust search queries, indexing and results (#1547, #1738)
- * API for changing permissions (#1688)
