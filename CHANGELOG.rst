@@ -4964,7 +4964,3 @@ Minor:
  * Relationships API more RESTful, validated and documented (#1695)
  * User name displayed when logged in (#1529)
  * Database dumps now exclude deleted packages (#1623)
- * Dataset/Tag name length now limited to 100 characters in API (#1473)
- * 'Status' API call now includes installed extensions (#1488)
- * Command-line interface for list/read/deleting datasets (#1499)
- * Slug API calls tidied up and documented (#1500)
