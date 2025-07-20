@@ -4961,6 +4961,3 @@ Minor:
  * 'About' page rewritten and easily customisable in the config (#1626)
  * Gravatar picture displayed next to My Account link (#1528)
  * 'Delete' button for datasets (#1425)
- * Relationships API more RESTful, validated and documented (#1695)
- * User name displayed when logged in (#1529)
- * Database dumps now exclude deleted packages (#1623)
