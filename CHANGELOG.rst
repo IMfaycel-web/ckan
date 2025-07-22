@@ -4957,7 +4957,3 @@ Major:
  * 5 Stars of Openness ratings show by resources, if ckanext-qa is installed (#1583)
  * Recline Data Explorer (for previewing and plotting data) improved and v2 moved into core CKAN (#1602, #1630)
 
-Minor:
- * 'About' page rewritten and easily customisable in the config (#1626)
- * Gravatar picture displayed next to My Account link (#1528)
- * 'Delete' button for datasets (#1425)
