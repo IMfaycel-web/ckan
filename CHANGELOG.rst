@@ -4955,5 +4955,3 @@ Major:
  * Stats Extension and Storage Extension moved into core CKAN (#1576, #1608)
  * Ability to mounting CKAN at a sub-URL (#1401, #1659)
  * 5 Stars of Openness ratings show by resources, if ckanext-qa is installed (#1583)
- * Recline Data Explorer (for previewing and plotting data) improved and v2 moved into core CKAN (#1602, #1630)
-
