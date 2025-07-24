@@ -4953,5 +4953,3 @@ Major:
  * Dataset view page decluttered (#1450)
  * Tags not restricted to just letters and dashes (#1453)
  * Stats Extension and Storage Extension moved into core CKAN (#1576, #1608)
- * Ability to mounting CKAN at a sub-URL (#1401, #1659)
- * 5 Stars of Openness ratings show by resources, if ckanext-qa is installed (#1583)
