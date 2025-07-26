@@ -4952,4 +4952,3 @@ Major:
  * User pages enhanced with lists of datasets (#1396) and recent activity (#1515)
  * Dataset view page decluttered (#1450)
  * Tags not restricted to just letters and dashes (#1453)
- * Stats Extension and Storage Extension moved into core CKAN (#1576, #1608)
