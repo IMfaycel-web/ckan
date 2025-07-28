@@ -4951,4 +4951,3 @@ Major:
  * Group pages enhanced, including in-group search (#1521)
  * User pages enhanced with lists of datasets (#1396) and recent activity (#1515)
  * Dataset view page decluttered (#1450)
- * Tags not restricted to just letters and dashes (#1453)
