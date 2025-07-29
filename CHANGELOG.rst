@@ -4950,4 +4950,3 @@ Major:
  * Resources now have their own pages, as well as showing in the Dataset (#1445, #1449)
  * Group pages enhanced, including in-group search (#1521)
  * User pages enhanced with lists of datasets (#1396) and recent activity (#1515)
- * Dataset view page decluttered (#1450)
