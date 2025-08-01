@@ -4945,7 +4945,3 @@ Bug fixes:
 
 v1.6 2012-02-24
 ===============
-
-Major:
- * Resources now have their own pages, as well as showing in the Dataset (#1445, #1449)
- * Group pages enhanced, including in-group search (#1521)
