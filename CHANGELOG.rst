@@ -4941,7 +4941,3 @@ Bug fixes:
  * Group edit form didn't allow adding multiple datasets at once (#2292)
  * Fix layout bugs in IE 7 (#1788)
  * Bug with Portuguese translation and Javascript (#2318)
- * Fix broken parse_rfc_2822 helper function (#2314)
-
-v1.6 2012-02-24
-===============
