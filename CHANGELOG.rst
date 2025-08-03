@@ -4936,8 +4936,3 @@ Minor:
 Bug fixes:
  * Catch exceptions on the QA archiver (#1809)
  * Error when changing language when CKAN is mounted in URL (#1804)
- * Naming of a new package/group can clash with a route (#1742)
- * Can't delete all of a package's resources over REST API (#2266)
- * Group edit form didn't allow adding multiple datasets at once (#2292)
- * Fix layout bugs in IE 7 (#1788)
- * Bug with Portuguese translation and Javascript (#2318)
