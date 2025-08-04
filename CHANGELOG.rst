@@ -4932,7 +4932,3 @@ Minor:
  * Modify where the language code is placed in URLs (#2261)
  * Simplified licenses list (#1359)
  * Add extension point for dataset view (#1741)
-
-Bug fixes:
- * Catch exceptions on the QA archiver (#1809)
- * Error when changing language when CKAN is mounted in URL (#1804)
