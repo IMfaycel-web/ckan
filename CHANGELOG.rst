@@ -4929,6 +4929,3 @@ Minor:
  * OpenID can now be disabled (#1830)
  * API and forms use same validation (#1792)
  * More robust bulk search indexing, with options to ignore exceptions and just refresh (#1616i,#2232)
- * Modify where the language code is placed in URLs (#2261)
- * Simplified licenses list (#1359)
- * Add extension point for dataset view (#1741)
