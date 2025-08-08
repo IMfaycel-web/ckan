@@ -4928,4 +4928,3 @@ Minor:
  * Enhancements in the dataset and resource forms (#1506)
  * OpenID can now be disabled (#1830)
  * API and forms use same validation (#1792)
- * More robust bulk search indexing, with options to ignore exceptions and just refresh (#1616i,#2232)
