@@ -4927,4 +4927,3 @@ Minor:
  * Weight queries so that title is more important than rest of body (#1826)
  * Enhancements in the dataset and resource forms (#1506)
  * OpenID can now be disabled (#1830)
- * API and forms use same validation (#1792)
