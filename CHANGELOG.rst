@@ -4925,5 +4925,3 @@ Minor:
  * Basic resource validation (#1711)
  * Ability to search without accents for accented words (#906)
  * Weight queries so that title is more important than rest of body (#1826)
- * Enhancements in the dataset and resource forms (#1506)
- * OpenID can now be disabled (#1830)
