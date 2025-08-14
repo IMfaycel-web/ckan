@@ -4923,5 +4923,4 @@ Major:
 Minor:
  * Groups can have an image associated (#2275)
  * Basic resource validation (#1711)
- * Ability to search without accents for accented words (#906)
- * Weight queries so that title is more important than rest of body (#1826)
+ * Ability to search without accents for accented words 
