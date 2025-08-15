@@ -4921,6 +4921,3 @@ Major:
  * Improved and redesigned documentation (#2226,#2245,#2248)
 
 Minor:
- * Groups can have an image associated (#2275)
- * Basic resource validation (#1711)
- * Ability to search without accents for accented words 
