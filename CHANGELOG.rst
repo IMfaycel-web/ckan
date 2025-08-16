@@ -4916,8 +4916,4 @@ Major:
  * Consolidated multilingual features in an included extension (#1821,#1820)
  * Atom feeds for publishers, tags and search results (#1593,#2277)
  * RDF dump paster command (#2303)
- * Better integration with the DataStore, based on ElasticSearch, with nice helper docs (#1797)
- * Updated the Recline data viewer with new features such as better graphs and a map view (#2236,#2283)
- * Improved and redesigned documentation (#2226,#2245,#2248)
-
-Minor:
+ * Better integration with the DataStore, based on ElasticSearch, with nice helper docs 
