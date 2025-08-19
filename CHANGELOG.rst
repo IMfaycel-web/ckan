@@ -4913,6 +4913,3 @@ Major:
  * Related items such as visualizations, applications or ideas can now be added to datasets (#2204)
  * Restricted vocabularies for tags, allowing grouping related tags together (#1698)
  * Internal analytics that track number of views and downloads for datasets and resources (#2251)
- * Consolidated multilingual features in an included extension (#1821,#1820)
- * Atom feeds for publishers, tags and search results (#1593,#2277)
- * RDF dump paster command (#2303)
