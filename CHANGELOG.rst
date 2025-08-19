@@ -4910,6 +4910,4 @@ v1.7 2012-05-09
 Major:
  * Updated SOLR schema (#2327). Note: This will require and update of the SOLR schema file and a reindex.
  * Support for Organization based workflow, with membership determinig access permissions to datasets (#1669,#2255)
- * Related items such as visualizations, applications or ideas can now be added to datasets (#2204)
- * Restricted vocabularies for tags, allowing grouping related tags together (#1698)
  * Internal analytics that track number of views and downloads for datasets and resources (#2251)
