@@ -4910,4 +4910,3 @@ v1.7 2012-05-09
 Major:
  * Updated SOLR schema (#2327). Note: This will require and update of the SOLR schema file and a reindex.
  * Support for Organization based workflow, with membership determinig access permissions to datasets (#1669,#2255)
- * Internal analytics that track number of views and downloads for datasets and resources (#2251)
