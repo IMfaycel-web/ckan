@@ -4901,8 +4901,3 @@ Bug fixes:
  * Inconsistent language on license dropdown (#2575)
  * Fix bug in translating lists in multilingual plugin
  * Group autocomplete doesn't work with multiple words (#2373)
- * Other minor fixes
-
-
-v1.7 2012-05-09
-==============
