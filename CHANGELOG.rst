@@ -4897,7 +4897,3 @@ Bug fixes:
  * Fixes for i18n login and logout issues (#2497)
  * Date on add/edit resource breaks if offset is specified (#2383)
  * Fix in organizations read page (#2509)
- * Add synchronous_search plugin to deployment.ini template (#2521)
- * Inconsistent language on license dropdown (#2575)
- * Fix bug in translating lists in multilingual plugin
- * Group autocomplete doesn't work with multiple words (#2373)
