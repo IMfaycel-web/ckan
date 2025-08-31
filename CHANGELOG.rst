@@ -4886,14 +4886,3 @@ Bug fixes:
 
 v1.7.1 2012-06-20
 =================
-
-Minor:
- * Documentation enhancements regarding install and extensions (#2505)
- * Home page and search results speed improvements (#2402,#2403)
- * I18n: Added Greek translation and updated other ones (#2506)
-
-Bug fixes:
- * UI fixes (#2507)
- * Fixes for i18n login and logout issues (#2497)
- * Date on add/edit resource breaks if offset is specified (#2383)
- * Fix in organizations read page (#2509)
