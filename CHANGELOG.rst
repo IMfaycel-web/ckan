@@ -4881,8 +4881,3 @@ Bug fixes:
  * Fix bug in feeds controller (#2869)
  * Show dataset author and maintainer names even if they have no emails
  * Fix URLs for some Amazon buckets
- * Other minor fixes
-
-
-v1.7.1 2012-06-20
-=================
