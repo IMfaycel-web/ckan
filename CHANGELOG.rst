@@ -4877,7 +4877,3 @@ Minor:
 
 Bug fixes:
  * Fixes for licenses i18n
- * Remove sensitive data from user dict (#2784)
- * Fix bug in feeds controller (#2869)
- * Show dataset author and maintainer names even if they have no emails
- * Fix URLs for some Amazon buckets
