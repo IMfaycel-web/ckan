@@ -4874,6 +4874,3 @@ v1.7.2 2012-10-19
 
 Minor:
  * Documentation enhancements regarding file uploads
-
-Bug fixes:
- * Fixes for licenses i18n
