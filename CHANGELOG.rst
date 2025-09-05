@@ -4866,11 +4866,4 @@ v1.7.3 2013-05-10
 =================
 
 Bug fixes:
- * Fixed possible XSS vulnerability on html input (#703)
-
-
-v1.7.2 2012-10-19
-=================
-
-Minor:
- * Documentation enhancements regarding file uploads
+ * Fixed possible XSS vulnerability on html input 
