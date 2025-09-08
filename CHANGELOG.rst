@@ -4863,7 +4863,3 @@ Bug fixes:
 
 
 v1.7.3 2013-05-10
-=================
-
-Bug fixes:
- * Fixed possible XSS vulnerability on html input 
