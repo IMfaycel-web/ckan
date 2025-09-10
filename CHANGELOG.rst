@@ -4829,37 +4829,3 @@ Minor
  * Re-enable simple search option (#2844)
  * Editing organization removes all datasets (#2845)
  * Accessibility enhancements on templates
-
-Bug fixes
- * Fix for relative url being used when doing file upload to local storage
- * Various fixes on IGroupFrom (#2750)
- * Fix group dataset sort (#2722)
- * Fix adding existing datasets to organizations (#2843)
- * Fix 500 error in related controller (#2856)
- * Fix for non-open licenses appearing open
- * Editing organization removes all datasets (#2845)
-
-API changes and deprecation:
- * Template helper functions are now restricted by default. By default only
-   those helper functions listed in lib.helpers.__allowed_functions__
-   are available to templates. The full functions can still be made
-   available by setting `ckan.restrict_template_vars = false` in your ini file.
-   Only restricted functions will be allowed in future versions of CKAN.
- * Deprecated functions related to the old faceting data structure have
-   been removed:  `helpers.py:facet_items()`, `facets.html:facet_sidebar()`,
-   `facets.html:facet_list_items()`.
-   Internal use of the old facets datastructure (attached to the context,
-   `c.facets`) has been superseded by use of the improved facet data structure,
-   `c.search_facets`.  The old data structure is still available on `c.facets`,
-   but is deprecated, and will be removed in future versions. (#2313)
-
-
-v1.7.4 2013-08-13
-=================
-
-Bug fixes:
- * Refactor for user update logic
- * Tweak resources visibility query
-
-
-v1.7.3 2013-05-10
