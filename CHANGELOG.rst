@@ -4827,5 +4827,4 @@ Minor
  * Mark more strings for translation (#2770)
  * Allow sort ordering of dataset listings on group pages (#2842)
  * Re-enable simple search option (#2844)
- * Editing organization removes all datasets (#2845)
- * Accessibility enhancements on templates
+ * Editing organization removes all dataset
