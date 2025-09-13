@@ -4821,10 +4821,3 @@ Major
  * New action API reference docs, which individually document each function and
    its arguments and return values (#2345)
  * Updated translations, added Japanese and Korean translations
-
-Minor
- * Add source install upgrade docs (#2757)
- * Mark more strings for translation (#2770)
- * Allow sort ordering of dataset listings on group pages (#2842)
- * Re-enable simple search option (#2844)
- * Editing organization removes all dataset
