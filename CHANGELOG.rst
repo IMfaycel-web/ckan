@@ -4819,5 +4819,3 @@ Major
    instructions. Ubuntu 12.04 is now supported for source installs (#2428,#2592)
  * Big speed improvements when indexing datasets (#2788)
  * New action API reference docs, which individually document each function and
-   its arguments and return values (#2345)
- * Updated translations, added Japanese and Korean translations
