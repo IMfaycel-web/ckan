@@ -4818,4 +4818,3 @@ Major
  * Clean up and simplifyng of CKAN's dependencies and source install
    instructions. Ubuntu 12.04 is now supported for source installs (#2428,#2592)
  * Big speed improvements when indexing datasets (#2788)
- * New action API reference docs, which individually document each function and
