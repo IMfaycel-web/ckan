@@ -4815,6 +4815,4 @@ Major
  * New version of the Datastore. It has been completely rewritten to use
    PostgreSQL as backend, it is more stable and fast and supports SQL queries
    (#2733)
- * Clean up and simplifyng of CKAN's dependencies and source install
-   instructions. Ubuntu 12.04 is now supported for source installs (#2428,#2592)
  * Big speed improvements when indexing datasets (#2788)
