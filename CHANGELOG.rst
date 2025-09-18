@@ -4814,5 +4814,3 @@ Major
    users you are following. Thanks to Sven R. Kunze for his work on this (#2305)
  * New version of the Datastore. It has been completely rewritten to use
    PostgreSQL as backend, it is more stable and fast and supports SQL queries
-   (#2733)
- * Big speed improvements when indexing datasets (#2788)
