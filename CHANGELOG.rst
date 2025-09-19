@@ -4812,5 +4812,3 @@ Major
    datasets (#2304)
  * New user dashboard that shows an activity stream of all the datasets and
    users you are following. Thanks to Sven R. Kunze for his work on this (#2305)
- * New version of the Datastore. It has been completely rewritten to use
-   PostgreSQL as backend, it is more stable and fast and supports SQL queries
