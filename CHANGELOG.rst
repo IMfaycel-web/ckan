@@ -4809,6 +4809,4 @@ Note: This version does not require a Solr schema upgrade
 
 Major
  * New 'follow' feature that allows logged in users to follow other users or
-   datasets (#2304)
- * New user dashboard that shows an activity stream of all the datasets and
-   users you are following. Thanks to Sven R. Kunze for his work on this (#2305)
+   datasets
