@@ -4806,7 +4806,3 @@ Note: This version requires a requirements upgrade on source installations
 Note: This version requires a database upgrade
 
 Note: This version does not require a Solr schema upgrade
-
-Major
- * New 'follow' feature that allows logged in users to follow other users or
-   datasets
