@@ -4791,7 +4791,3 @@ Bug fixes:
 
 v1.8.1 2013-05-10
 =================
-
-Bug fixes:
- * Fixed possible XSS vulnerability on html input (#703)
- * Fix unicode template 500 error (#808)
