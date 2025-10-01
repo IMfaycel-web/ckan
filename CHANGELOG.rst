@@ -4786,8 +4786,3 @@ v1.8.2 2013-08-13
 Bug fixes:
  * Fix for using harvesters with organization setup
  * Refactor for user update logic
- * Tweak resources visibility query
-
-
-v1.8.1 2013-05-10
-=================
