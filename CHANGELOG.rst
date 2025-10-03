@@ -4780,9 +4780,4 @@ Deprecated and removed:
  * Removed deprecated datetime_to_datestr() template helper function (#2257)
 
 
-v1.8.2 2013-08-13
-=================
-
-Bug fixes:
- * Fix for using harvesters with organization setup
- * Refactor for user update logic
+v1.8.2 2013-08
