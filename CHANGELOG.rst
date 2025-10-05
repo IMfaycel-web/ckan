@@ -4777,7 +4777,3 @@ Deprecated and removed:
    get_facet_title() instead (#2257)
  * Removed deprecated am_authorized() template helper function, use
    check_access() instead (#2257)
- * Removed deprecated datetime_to_datestr() template helper function (#2257)
-
-
-v1.8.2 2013-08
