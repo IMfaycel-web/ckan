@@ -4773,7 +4773,3 @@ Deprecated and removed:
    ITemplateHelpers plugin interface instead
  * The Model, Search and Util APIs are deprecated, use the Action API instead
  * Removed restrict_template_vars config setting (#2257)
- * Removed deprecated facet_title() template helper function, use
-   get_facet_title() instead (#2257)
- * Removed deprecated am_authorized() template helper function, use
-   check_access() instead (#2257)
