@@ -4771,5 +4771,3 @@ Other highlights:
 Deprecated and removed:
  * The IGenshiStreamFilter plugin interface is deprecated (#271), use the
    ITemplateHelpers plugin interface instead
- * The Model, Search and Util APIs are deprecated, use the Action API instead
- * Removed restrict_template_vars config setting (#2257)
