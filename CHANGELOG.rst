@@ -4769,5 +4769,4 @@ Other highlights:
  * You can now change the sort ordering of datasets on the dataset search page
 
 Deprecated and removed:
- * The IGenshiStreamFilter plugin interface is deprecated (#271), use the
    ITemplateHelpers plugin interface instead
