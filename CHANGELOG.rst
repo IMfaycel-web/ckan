@@ -4767,6 +4767,3 @@ Other highlights:
    There's also a paster command to export the tracking data to a csv file (#195)
  * Updated CKAN Coding Standards and new CONTRIBUTING.rst file
  * You can now change the sort ordering of datasets on the dataset search page
-
-Deprecated and removed:
-   ITemplateHelpers plugin interface instead
