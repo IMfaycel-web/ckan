@@ -4764,6 +4764,3 @@ Other highlights:
  * convert_to/from_extras have been fixed to not add quotes around strings (#2930)
  * Updated CKAN coding standards (#3020) and CONTRIBUTING.rst file
  * Built-in page view counting and 'popular' badges on datasets and resources
-   There's also a paster command to export the tracking data to a csv file (#195)
- * Updated CKAN Coding Standards and new CONTRIBUTING.rst file
- * You can now change the sort ordering of datasets on the dataset search page
