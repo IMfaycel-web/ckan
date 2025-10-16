@@ -4761,6 +4761,3 @@ Other highlights:
  * CKAN now supports internalization of strings in javascript files, the new
    `paster trans` command is used to pull translatable strings out of
    javascript files (#2774, #2750)
- * convert_to/from_extras have been fixed to not add quotes around strings (#2930)
- * Updated CKAN coding standards (#3020) and CONTRIBUTING.rst file
- * Built-in page view counting and 'popular' badges on datasets and resources
