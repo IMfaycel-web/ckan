@@ -4758,6 +4758,4 @@ Other highlights:
  * CKAN will now recognise common file format strings such as
    "application/json", "JSON", ".json" and "json" as a single file type "json"
    (#2416)
- * CKAN now supports internalization of strings in javascript files, the new
-   `paster trans` command is used to pull translatable strings out of
-   javascript files (#2774, #2750)
+ * CKAN now supports internalization of strings in javascript files
