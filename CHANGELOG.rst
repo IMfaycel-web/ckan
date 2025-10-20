@@ -4757,5 +4757,3 @@ Other highlights:
      css files (#2950) (also see `paster front-end-build`)
  * CKAN will now recognise common file format strings such as
    "application/json", "JSON", ".json" and "json" as a single file type "json"
-   (#2416)
- * CKAN now supports internalization of strings in javascript files
