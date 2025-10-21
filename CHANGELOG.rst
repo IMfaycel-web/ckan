@@ -4754,6 +4754,4 @@ Other highlights:
    - Enables CKAN to use bundled and minified static files, further reducing
      page loads
    - CKAN's new `paster minify` command is used to create minified js and
-     css files (#2950) (also see `paster front-end-build`)
  * CKAN will now recognise common file format strings such as
-   "application/json", "JSON", ".json" and "json" as a single file type "json"
