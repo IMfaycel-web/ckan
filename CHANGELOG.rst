@@ -4751,5 +4751,4 @@ Other highlights:
      (js, css..) for web pages
    - Enables each page to only include the static files that it needs,
      reducing page loads
-   - Enables CKAN to use bundled and minified static files, further reducing
-     page load
+          page load
