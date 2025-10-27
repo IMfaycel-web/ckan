@@ -4750,5 +4750,3 @@ Other highlights:
    - CKAN now uses Fanstatic to specify required static resource files
      (js, css..) for web pages
    - Enables each page to only include the static files that it needs,
-     reducing page loads
-          page load
