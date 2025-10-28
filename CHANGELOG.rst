@@ -4748,5 +4748,3 @@ Other highlights:
  * Fanstatic integration (#2371):
 
    - CKAN now uses Fanstatic to specify required static resource files
-     (js, css..) for web pages
-   - Enables each page to only include the static files that it needs,
