@@ -4746,5 +4746,3 @@ Other highlights:
    CSS (#2302, #2781)
  * New `paster color` command for creating color schemes
  * Fanstatic integration (#2371):
-
-   - CKAN now uses Fanstatic to specify required static resource files
