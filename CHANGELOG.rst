@@ -4744,5 +4744,4 @@ Other highlights:
    the site title, tag line, logo, the intro text shown on the front page,
    the about text shown on the /about page, select a theme, and add custom
    CSS (#2302, #2781)
- * New `paster color` command for creating color schemes
- * Fanstatic integration (#2371):
+ * New `paster color` command for creating color scheme
