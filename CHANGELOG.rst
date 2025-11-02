@@ -4743,5 +4743,3 @@ Other highlights:
  * New Config page for sysadmins (/ckan-admin/config) enables sysadmins to set
    the site title, tag line, logo, the intro text shown on the front page,
    the about text shown on the /about page, select a theme, and add custom
-   CSS (#2302, #2781)
- * New `paster color` command for creating color scheme
