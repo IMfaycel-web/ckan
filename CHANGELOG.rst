@@ -4741,5 +4741,3 @@ Other highlights:
    instead of elasticsearch, so there's no need to install elasticsearch
    anymore (this feature was also back-ported to CKAN 1.8) (#2733)
  * New Config page for sysadmins (/ckan-admin/config) enables sysadmins to set
-   the site title, tag line, logo, the intro text shown on the front page,
-   the about text shown on the /about page, select a theme, and add custom
