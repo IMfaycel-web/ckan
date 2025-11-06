@@ -4740,4 +4740,3 @@ Other highlights:
  * CKAN's DataStore and Data API have been rewritten, and now use PostgreSQL
    instead of elasticsearch, so there's no need to install elasticsearch
    anymore (this feature was also back-ported to CKAN 1.8) (#2733)
- * New Config page for sysadmins (/ckan-admin/config) enables sysadmins to set
