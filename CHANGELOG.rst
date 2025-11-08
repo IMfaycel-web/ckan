@@ -4736,5 +4736,3 @@ Other highlights:
    https://travis-ci.org/ckan/ckan/
  * Dataset pages now have <link rel="alternate" type="application/rdf+xml"
    links in the HTML headers, allows linked-data tools to find CKAN's RDF
-   rendering of a dataset's metadata (#413)
- * CKAN's DataStore and Data API have been rewritten, and now use PostgreSQL
