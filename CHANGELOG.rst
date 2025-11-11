@@ -4732,5 +4732,4 @@ API:
    been rewritten (#357)
 
 Other highlights:
- * CKAN now has continuous integration testing at
-   https://travis-ci.org/ckan/ckan/
+ * CKAN now has integration testing at
