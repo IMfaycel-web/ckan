@@ -4730,6 +4730,3 @@ Data Preview:
 API:
  * The Action API is now CKAN's default API, and the API documentation has
    been rewritten (#357)
-
-Other highlights:
- * CKAN now has integration testing at
