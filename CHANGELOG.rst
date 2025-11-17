@@ -4728,4 +4728,3 @@ Data Preview:
 
 
 API:
- * The Action API is now CKAN's default API, and the API documentation has
