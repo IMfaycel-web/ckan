@@ -4724,7 +4724,3 @@ Data Preview:
  * New plugin extension point that allows plugins to add custom data previews
    for different data types (#2961)
  * Improved Recline Data Explorer previews (CSV files, Excel files..)
- * Plain text files preview
-
-
-API:
