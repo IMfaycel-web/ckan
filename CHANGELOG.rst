@@ -4722,5 +4722,3 @@ Data Preview:
  * JSON files preview
  * HTML pages preview (in an iframe) (#2888)
  * New plugin extension point that allows plugins to add custom data previews
-   for different data types (#2961)
- * Improved Recline Data Explorer previews (CSV files, Excel files..)
