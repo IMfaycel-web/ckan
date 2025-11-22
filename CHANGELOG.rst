@@ -4721,4 +4721,3 @@ Data Preview:
  * PDF files preview (#2203)
  * JSON files preview
  * HTML pages preview (in an iframe) (#2888)
- * New plugin extension point that allows plugins to add custom data previews
