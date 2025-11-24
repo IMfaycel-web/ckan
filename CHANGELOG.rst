@@ -4720,4 +4720,3 @@ Activity Streams, Following & User Dashboard:
 Data Preview:
  * PDF files preview (#2203)
  * JSON files preview
- * HTML pages preview (in an iframe) (#2888)
