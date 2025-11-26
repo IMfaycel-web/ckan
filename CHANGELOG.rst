@@ -4716,7 +4716,5 @@ Activity Streams, Following & User Dashboard:
      is filtered)
  * New :ref:`ckan.activity_streams_enabled` config file setting allows you to
    disable the generation of activity streams (#654)
-
-Data Preview:
  * PDF files preview (#2203)
  * JSON files preview
