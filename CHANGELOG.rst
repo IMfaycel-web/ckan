@@ -4714,7 +4714,6 @@ Activity Streams, Following & User Dashboard:
      organization that you're following
    - New sidebar shows previews and unfollow buttons (when the activity stream
      is filtered)
- * New :ref:`ckan.activity_streams_enabled` config file setting allows you to
    disable the generation of activity streams (#654)
  * PDF files preview (#2203)
  * JSON files preview
