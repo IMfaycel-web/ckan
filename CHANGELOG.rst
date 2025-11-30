@@ -4712,7 +4712,6 @@ Activity Streams, Following & User Dashboard:
    - New dropdown-menu enables you to filter you dashboard activity stream to
      show only activities from a particular user, dataset, group or
      organization that you're following
-     is filtered)
-   disable the generation of activity streams (#654)
+        disable the generation of activity streams (#654)
  * PDF files preview (#2203)
  * JSON files preview
