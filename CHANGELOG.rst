@@ -4707,9 +4707,7 @@ Activity Streams, Following & User Dashboard:
    activities on your dashboard (#1635)
  * Infinite scrolling of activity streams (if you scroll to the bottom of a
    an activity stream, CKAN will automatically load more activities) (#3018)
- * Redesigned user dashboard (#3028):
      show only activities from a particular user, dataset, group or
      organization that you're following
-        disable the generation of activity streams (#654)
  * PDF files preview (#2203)
  * JSON files preview
