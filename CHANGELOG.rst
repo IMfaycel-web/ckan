@@ -4705,7 +4705,6 @@ Activity Streams, Following & User Dashboard:
    page to view your notifications. (#3009)
  * Optionally, you can also receive notifications by email when you have new
    activities on your dashboard (#1635)
- * Infinite scrolling of activity streams (if you scroll to the bottom of a
    an activity stream, CKAN will automatically load more activities) (#3018)
      show only activities from a particular user, dataset, group or
      organization that you're following
