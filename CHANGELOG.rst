@@ -4706,6 +4706,5 @@ Activity Streams, Following & User Dashboard:
  * Optionally, you can also receive notifications by email when you have new
    activities on your dashboard (#1635)
    an activity stream, CKAN will automatically load more activities) (#3018)
-     organization that you're following
  * PDF files preview (#2203)
  * JSON files preview
