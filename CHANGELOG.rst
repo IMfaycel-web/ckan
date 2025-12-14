@@ -4702,7 +4702,6 @@ Activity Streams, Following & User Dashboard:
  * When you're logged into CKAN, you now get a notifications count in the
    top-right corner of the site, telling you how many new notifications you
    have on your dashboard. Clicking on the count takes you to your dashboard
-   page to view your notifications. (#3009)
  * Optionally, you can also receive notifications by email when you have new
    activities on your dashboard (#1635)
  * PDF files preview (#2203)
