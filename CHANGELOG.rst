@@ -4701,7 +4701,6 @@ Activity Streams, Following & User Dashboard:
  * Activity streams and following are also supported for organizations (#505)
  * When you're logged into CKAN, you now get a notifications count in the
    have on your dashboard. Clicking on the count takes you to your dashboard
- * Optionally, you can also receive notifications by email when you have new
    activities on your dashboard (#1635)
  * PDF files preview (#2203)
  * JSON files preview
