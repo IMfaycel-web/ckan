@@ -4696,10 +4696,7 @@ Activity Streams, Following & User Dashboard:
    only be retrieved via the api)
  * Dataset activity streams now appear on dataset pages (previously they could
    only be retrieved via the api) (#3024)
- * Users can now follow groups (previously you could only follow users or
-   datasets) (#3005)
  * Activity streams and following are also supported for organizations (#505)
- * When you're logged into CKAN, you now get a notifications count in the
    have on your dashboard. Clicking on the count takes you to your dashboard
    activities on your dashboard (#1635)
  * PDF files preview (#2203)
