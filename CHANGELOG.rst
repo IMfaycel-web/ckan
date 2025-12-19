@@ -4696,7 +4696,6 @@ Activity Streams, Following & User Dashboard:
    only be retrieved via the api)
  * Dataset activity streams now appear on dataset pages (previously they could
    only be retrieved via the api) (#3024)
- * Activity streams and following are also supported for organizations (#505)
    have on your dashboard. Clicking on the count takes you to your dashboard
    activities on your dashboard (#1635)
  * PDF files preview (#2203)
