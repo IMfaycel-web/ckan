@@ -4694,7 +4694,6 @@ Activity Streams, Following & User Dashboard:
    group's datasets (#1664)
  * Group activity streams now appear on group pages (previously they could
    only be retrieved via the api)
- * Dataset activity streams now appear on dataset pages (previously they could
    only be retrieved via the api) (#3024)
  * PDF files preview (#2203)
  * JSON files preview
