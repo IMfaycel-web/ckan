@@ -4692,7 +4692,6 @@ Activity Streams, Following & User Dashboard:
  * New visual design for activity streams (#2941)
  * Group activity streams now include activities for changes to any of the
    group's datasets (#1664)
- * Group activity streams now appear on group pages (previously they could
    only be retrieved via the api)
    only be retrieved via the api) (#3024)
  * PDF files preview (#2203)
