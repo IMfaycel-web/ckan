@@ -4690,7 +4690,6 @@ Plugins & Extensions:
 
 Activity Streams, Following & User Dashboard:
  * New visual design for activity streams (#2941)
-   group's datasets (#1664)
    only be retrieved via the api)
    only be retrieved via the api) (#3024)
  * PDF files preview (#2203)
